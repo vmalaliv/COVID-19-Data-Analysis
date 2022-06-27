@@ -13,8 +13,8 @@
 
    ### Delivery 1 : Figure 1 The relative cases overtime of Covid infectors (absolut Covid cases/population size)
 
-    ![](../reports/figures/delivery_1.png)
+       https://github.com/vmalaliv/COVID-19-Data-Analysis/blob/master/reports/figures/delivery_1.png
       
    ### Delivery 2 : Figure 2 The vaccination rate (percentage of the population) over time
 
-    ![](../reports/figures/delivery_2_line_chart)
+     https://github.com/vmalaliv/COVID-19-Data-Analysis/blob/master/reports/figures/delivery_2_line_chart.png
